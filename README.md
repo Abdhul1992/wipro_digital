@@ -8,4 +8,6 @@ The whole process will automatically run through the code and run through wipro_
 
 The xml consists of of a field name, name is the name of the sitemap are we parsing and then the value is a url.
 
+you may need to install beautiful soup. pip3 install bs4
+
 Please let me know if theres any issues.
